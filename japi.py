@@ -39,9 +39,8 @@ def main():
         
 main()
 
-print('Thanks for using!')
+print('Stock Quotes retrieved successfully!')
 
     
-
 
 
