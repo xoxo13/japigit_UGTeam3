@@ -1,0 +1,118 @@
+Enter a stock symbol (or press ENTER to quit): sbux
+
+Sending URL: https://www.alphavantage.co/query?function=BATCH_STOCK_QUOTES&symbols=sbux&apikey=M5P3OSS1A8WN5RLJ
+Response is:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "SBUX",
+            "2. price": "71.3350",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:56"
+        }
+    ]
+}
+Response as a dict is: {'Meta Data': {'1. Information': 'Batch Stock Market Quotes', '2. Notes': 'IEX Real-Time', '3. Time Zone': 'US/Eastern'}, 'Stock Quotes': [{'1. symbol': 'SBUX', '2. price': '71.3350', '3. volume': '--', '4. timestamp': '2019-02-22 15:59:56'}]}
+
+The current price of sbux is: 71.3350
+
+
+Enter a stock symbol (or press ENTER to quit): aapl
+
+Sending URL: https://www.alphavantage.co/query?function=BATCH_STOCK_QUOTES&symbols=aapl&apikey=M5P3OSS1A8WN5RLJ
+Response is:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "172.8300",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:55"
+        }
+    ]
+}
+Response as a dict is: {'Meta Data': {'1. Information': 'Batch Stock Market Quotes', '2. Notes': 'IEX Real-Time', '3. Time Zone': 'US/Eastern'}, 'Stock Quotes': [{'1. symbol': 'AAPL', '2. price': '172.8300', '3. volume': '--', '4. timestamp': '2019-02-22 15:59:55'}]}
+
+The current price of aapl is: 172.8300
+
+
+Enter a stock symbol (or press ENTER to quit): amzn
+
+Sending URL: https://www.alphavantage.co/query?function=BATCH_STOCK_QUOTES&symbols=amzn&apikey=M5P3OSS1A8WN5RLJ
+Response is:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AMZN",
+            "2. price": "1630.9100",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:57"
+        }
+    ]
+}
+Response as a dict is: {'Meta Data': {'1. Information': 'Batch Stock Market Quotes', '2. Notes': 'IEX Real-Time', '3. Time Zone': 'US/Eastern'}, 'Stock Quotes': [{'1. symbol': 'AMZN', '2. price': '1630.9100', '3. volume': '--', '4. timestamp': '2019-02-22 15:59:57'}]}
+
+The current price of amzn is: 1630.9100
+
+
+Enter a stock symbol (or press ENTER to quit): fb
+
+Sending URL: https://www.alphavantage.co/query?function=BATCH_STOCK_QUOTES&symbols=fb&apikey=M5P3OSS1A8WN5RLJ
+Response is:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "FB",
+            "2. price": "161.8800",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:59"
+        }
+    ]
+}
+Response as a dict is: {'Meta Data': {'1. Information': 'Batch Stock Market Quotes', '2. Notes': 'IEX Real-Time', '3. Time Zone': 'US/Eastern'}, 'Stock Quotes': [{'1. symbol': 'FB', '2. price': '161.8800', '3. volume': '--', '4. timestamp': '2019-02-22 15:59:59'}]}
+
+The current price of fb is: 161.8800
+
+
+Enter a stock symbol (or press ENTER to quit): msft
+
+Sending URL: https://www.alphavantage.co/query?function=BATCH_STOCK_QUOTES&symbols=msft&apikey=M5P3OSS1A8WN5RLJ
+Response is:  {
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "MSFT",
+            "2. price": "110.9650",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:59"
+        }
+    ]
+}
+Response as a dict is: {'Meta Data': {'1. Information': 'Batch Stock Market Quotes', '2. Notes': 'IEX Real-Time', '3. Time Zone': 'US/Eastern'}, 'Stock Quotes': [{'1. symbol': 'MSFT', '2. price': '110.9650', '3. volume': '--', '4. timestamp': '2019-02-22 15:59:59'}]}
+
+The current price of msft is: 110.9650
+
+
+Enter a stock symbol (or press ENTER to quit): 
+Thanks for using!
+>>> 
